@@ -5,4 +5,4 @@
 [Материалы 2024 года](https://github.com/annadmitrieva/ML_foundations_course/tree/2024)  
 [Материалы 2025 года - первый поток](https://github.com/annadmitrieva/ML_foundations_course/tree/2025-1)
 
-[9 апреля - Знакомство] (https://github.com/annadmitrieva/ML_foundations_course/tree/main/1_lesson/)
+[9 апреля - Знакомство](https://github.com/annadmitrieva/ML_foundations_course/tree/main/1_lesson/)
