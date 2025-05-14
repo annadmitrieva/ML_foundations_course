@@ -14,3 +14,5 @@
 [23 апреля - Кластеризация](https://github.com/annadmitrieva/ML_foundations_course/tree/2025-1/23%20%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F)
 
 [28 апреля - Снижение размерности](https://github.com/annadmitrieva/ML_foundations_course/tree/2025-1/28%20%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F)
+
+[30 апреля - Ансамбли и градиентный бустинг](https://github.com/annadmitrieva/ML_foundations_course/tree/2025-1/30%20%D0%B0%D0%BF%D1%80%D0%B5%D0%BB%D1%8F)
