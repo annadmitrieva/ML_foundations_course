@@ -22,3 +22,5 @@
 [14 мая - Дистрибутивная семантика. Векторные представления текста](https://github.com/annadmitrieva/ML_foundations_course/tree/2025-1/14%20%D0%BC%D0%B0%D1%8F)
 
 [19 мая - Архитектуры нейросетей](https://github.com/annadmitrieva/ML_foundations_course/tree/2025-1/19%20%D0%BC%D0%B0%D1%8F)
+
+[21 мая - Attention и трансформеры](https://github.com/annadmitrieva/ML_foundations_course/tree/2025-1/21%20%D0%BC%D0%B0%D1%8F)
